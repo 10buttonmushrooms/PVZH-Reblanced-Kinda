@@ -1,6 +1,7 @@
+# v1.0
 # 22/06/24
 
-# 10buttonmushrooms
+## 10buttonmushrooms
 
 * Genetic Amplification - A Plant or a card in your hand gets [+1a]/[+2h], [aquatic], and [teamup].
 * Lightspeed Seed - [conjure] two Tricks and they cost [1s] less.
