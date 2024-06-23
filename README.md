@@ -4,4 +4,4 @@
 
 All Patch Notes for each version can be found inside the game's "Help & About" menu in settings. It's been replaced with the Patch Notes.
 
-Join the [Discord](https://discord.gg/526TcphNRy) for assistance
+Join the [Discord](https://discord.com/invite/DZWpQhSKcU) for assistance
